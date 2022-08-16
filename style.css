@@ -1,0 +1,74 @@
+/* @font-face {
+    font-family: "Tribe",atcq;
+    src: url("https://fonts.gstatic.com/s/permanentmarker/v16/Fh4uPib9Iyv2ucM6pGQMWimMp004La2Cfw.woff2") format("tribeLabels"),
+}
+/* .body{
+    background-image: url();
+    height: 450vh;
+    background-color: black;
+    color: white;
+} */
+body{
+    background-image: url('https://atribecalledquest.com/wp-content/uploads/2015/08/slider2.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}          
+.navContainer{
+    border: solid lightgray;
+    /* background-color: black; */
+}
+.tribeLogo{
+    height: 40px;
+    margin-left: 10px;
+}
+.labels{
+    /* border: solid grey; */
+    /* background-color: black; */
+    color: white;
+    margin-left: 700px;
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Tribe',atcq;
+    height: 20px;
+    font-size: larger;
+}
+.smallIcons{
+    /* border: solid grey;
+    background-color: black;
+    margin-left: 280px;
+    height: 40px; */
+}
+.upArrow{
+    height: 10px;
+}
+.music{
+    color: white;
+    justify-content: center;
+    display: flex;
+}
+.albumContainer{
+    display: flex;
+    flex-wrap: wrap;
+    height: 10px;
+    width: 20px;
+}
+.albumBox{
+    /* border: solid black;
+    height: 2px;
+    width: 2px;
+    background-color: grey; */
+} */
+
+/* body{
+    background-image: url('https://atribecalledquest.com/wp-content/uploads/2015/08/slider2.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+} */
+.container{
+    background-image: url('https://atribecalledquest.com/wp-content/uploads/2015/08/slider2.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
